@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wirephotoZ1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.4166666666666667,
+  "sample": 60,
+  "speed": 0.4,
+  "wrapMode": "0",
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": -413
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": 380
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": 413
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": -380
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": -45
+        }
+      ]
+    }
+  },
+  "events": []
+}

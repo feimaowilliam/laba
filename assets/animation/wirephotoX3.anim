@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wirephotoX3",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.4166666666666667,
+  "sample": 60,
+  "speed": 0.4,
+  "wrapMode": "0",
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": -530
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": 530
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": -175
+        }
+      ]
+    }
+  },
+  "events": []
+}

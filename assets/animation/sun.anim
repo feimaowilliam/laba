@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sun",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "0",
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": -126
+        },
+        {
+          "frame": 0.05,
+          "value": -252
+        },
+        {
+          "frame": 0.1,
+          "value": -378
+        }
+      ]
+    }
+  },
+  "events": []
+}

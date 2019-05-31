@@ -1,0 +1,1 @@
+node .\version_generator.js -s .\build\jsb-link\ -d build

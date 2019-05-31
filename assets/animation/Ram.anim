@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Ram",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.1333333333333333,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e4d9cb63-489e-401b-817d-8f6492326f20"
+            }
+          },
+          {
+            "frame": 1.05,
+            "value": {
+              "__uuid__": "d15846e2-7292-4fe5-9714-d1cf3db9d5b9"
+            }
+          },
+          {
+            "frame": 1.1166666666666667,
+            "value": {
+              "__uuid__": "d15846e2-7292-4fe5-9714-d1cf3db9d5b9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
